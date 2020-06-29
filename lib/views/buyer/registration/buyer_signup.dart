@@ -4,6 +4,7 @@ import 'package:shopping_app_background/services/authenticate/authentication.dar
 import 'package:shopping_app_background/services/database/database_services.dart';
 import 'package:shopping_app_background/views/buyer/home/main_home_page.dart';
 import 'package:shopping_app_background/views/login/buyer.dart';
+import 'package:shopping_app_background/views/login/login_home.dart';
 
 class BuyerSignUp extends StatefulWidget {
   @override
@@ -229,7 +230,7 @@ class _BuyerSignUpState extends State<BuyerSignUp> {
                                 onTap: () {
                                   Navigator.of(context).pushReplacement(
                                       MaterialPageRoute(
-                                          builder: (context) => BuyerLogin()));
+                                          builder: (context) => LoginHome()));
                                 },
                                 child: Container(
                                   child: Text(

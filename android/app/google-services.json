@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286954022206",
+    "firebase_url": "https://futureshop-4ecc6.firebaseio.com",
+    "project_id": "futureshop-4ecc6",
+    "storage_bucket": "futureshop-4ecc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286954022206:android:2fc225237324d6bd5cf86f",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app_background"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286954022206-8sjn7hi3s98iabdnemt6tirv105d1u22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZLQc89eZtjL8lP5HNlp16rLgpDeqYKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286954022206-8sjn7hi3s98iabdnemt6tirv105d1u22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
